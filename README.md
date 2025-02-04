@@ -1,1 +1,1 @@
-I am using a secrect.json file.
+I am using a secret.json file.
