@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>9a18924d-5337-4900-b7a0-ea47b79c262a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.1" />
+    <PackageReference Include="Octokit" Version="14.0.0" />
+  </ItemGroup>
+
+</Project>
